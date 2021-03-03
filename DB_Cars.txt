@@ -1,0 +1,26 @@
+Tabella: auto
+Campi   	Tipo di dato-Attributi
+
+Id              numero-INT(BYGINT per progetti più grandi)- 	PRIMARY KEY- (AI-UNIQUE)
+
+Marca  		string- varchar(15) – NOT NULL
+
+Modello      	string-varchar(15)-NOT NULL
+
+Cilindrata	string- varchar(10) || float –float(4,3)  -NOT NULL
+
+Anno 		data((YYYY-MM)-NOT NULL
+
+Kw		int – smallint – NOT NULL
+
+CV		int – smallint – NOT NULL
+
+Prezzo		float- float(3,3)-NOT NULL
+
+Km		float- float(3,3)-NOT NULL
+
+Alimentazione   string-varchar(20)-NOT NULL
+
+Cambio 	string-varchar(20)-NOT NULL
+
+Porte 		numero- tinyint –NOT NULL
