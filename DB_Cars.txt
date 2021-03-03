@@ -15,9 +15,9 @@ Kw		int – smallint – NOT NULL
 
 CV		int – smallint – NOT NULL
 
-Prezzo		float- float(3,3)-NOT NULL
+Prezzo		float- float(4,2)-NOT NULL
 
-Km		float- float(3,3)-NOT NULL
+Km		float- float(5,2)-NOT NULL
 
 Alimentazione   string-varchar(20)-NOT NULL
 
