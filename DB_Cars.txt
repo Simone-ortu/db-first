@@ -21,6 +21,6 @@ Km		float- float(5,2)-NOT NULL
 
 Alimentazione   string-varchar(20)-NOT NULL
 
-Cambio 	string-varchar(20)-NOT NULL
+Cambio 	        string-varchar(20)-NOT NULL
 
 Porte 		numero- tinyint –NOT NULL
